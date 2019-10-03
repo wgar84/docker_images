@@ -1,0 +1,5 @@
+nltk
+wordcloud
+grpcio
+bs4
+lxml

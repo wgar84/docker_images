@@ -1,0 +1,16 @@
+jupyter
+jedi
+scipy
+matplotlib
+jupyterlab
+unidecode
+bokeh
+plotnine
+requests
+sqlalchemy
+sqlalchemy-utils
+pandas
+psycopg2-binary
+nltk
+wordcloud
+spacy[cuda100]

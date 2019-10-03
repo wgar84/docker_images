@@ -1,0 +1,14 @@
+jupyter
+jedi
+scipy
+jupyterlab
+pandas
+sqlalchemy
+sqlalchemy-utils
+psycopg2-binary
+numpy
+matplotlib
+unidecode
+bokeh
+selenium
+plotnine
